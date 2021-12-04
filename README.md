@@ -7,7 +7,7 @@ A simple card slider is implemented here.   When you click on one of the cards, 
 
 ### Preview:
 
-![alt text](previewImg/Снимок экрана 2021-12-04 в 23.57.27.png)
+![alt text](https://github.com/Sergey-Shar/simple-slider/blob/master/previewImg/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202021-12-04%20%D0%B2%2023.57.27.png?raw=true)
 
 ### Built With:
 The following tools were used to develop the project :hammer:
